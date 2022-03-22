@@ -1,0 +1,23 @@
+hi bhai
+  bhai ye hai classStudents = 566;
+  jab tak bhai (classStudents < 629) {
+    classStudents += 1;
+    agar bhai (classStudents == 625) {
+        bol bhai "Present madam ";
+        agla dekh bhai;
+   }
+    agar bhai(classStudents==587){
+        bol bhai "average mumbaikar Present madam ";
+        agla dekh bhai;
+    }
+   agar bhai (classStudents == 616) {
+        bol bhai "chutiya mayank Present madam ";
+        agla dekh bhai;
+   }
+    agar bhai (classStudents==583){
+        bol bhai "network issue Madam because i live in J&K";
+        agla dekh bhai;
+    }
+    bol bhai classStudents, "Present madam";
+  }
+bye bhai
